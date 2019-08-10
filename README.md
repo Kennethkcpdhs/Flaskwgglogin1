@@ -9,6 +9,6 @@ Login Callback: /login/callback
 Logout: /logout
 
 
-# HTTP stands for Hypertext Transfer Protocol. At it’s most basic, it allows for the communication between different systems. It’s most commonly used to transfer data from a web server to a browser in order to allow users to view web pages. It’s the protocol that was used for basically all early websites.
+### HTTP stands for Hypertext Transfer Protocol. At it’s most basic, it allows for the communication between different systems. It’s most commonly used to transfer data from a web server to a browser in order to allow users to view web pages. It’s the protocol that was used for basically all early websites.
 
-# HTTPS stands for Hypertext Transfer Protocol Secure. The problem with the regular HTTP protocol is that the information that flows from server to browser is not encrypted, which means it can be easily stolen. HTTPS protocols remedy this by using an SSL (secure sockets layer) certificate, which helps create a secure encrypted connection between the server and the browser, thereby protecting potentially sensitive information from being stolen as its transferred between the server and the browser.
+### HTTPS stands for Hypertext Transfer Protocol Secure. The problem with the regular HTTP protocol is that the information that flows from server to browser is not encrypted, which means it can be easily stolen. HTTPS protocols remedy this by using an SSL (secure sockets layer) certificate, which helps create a secure encrypted connection between the server and the browser, thereby protecting potentially sensitive information from being stolen as its transferred between the server and the browser.
