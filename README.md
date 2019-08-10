@@ -5,8 +5,11 @@ An environment variable is a variable whose value is set outside the program, ty
 
 # Page Layout
 Homepage: /
+
 Login: /login
+
 Login Callback: /login/callback
+
 Logout: /logout
 
 ## Debug Log
