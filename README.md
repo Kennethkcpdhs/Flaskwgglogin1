@@ -56,7 +56,7 @@ echo "export SECRET_KEY=sekritvalue" >> .env
 echo "export OTHER_SECRET=somethingelse" >> .env
 # etc
 ```
-Of course, its possible to simply dump the "secret codes directly and safe the trouble but __please dont do this for official important projects__!
+Of course, its possible to simply dump the *"secret codes directly and safe the trouble"* but __please dont do this for official important projects__!
 
 #### References
 https://realpython.com/flask-google-login/
