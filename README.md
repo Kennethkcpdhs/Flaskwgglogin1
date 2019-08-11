@@ -59,6 +59,8 @@ echo "export OTHER_SECRET=somethingelse" >> .env
 Of course, its possible to simply dump the "secret codes directly and safe the trouble but __please dont do this for official important projects__!
 
 #### References
-https://realpython.com/flask-google-login
+https://realpython.com/flask-google-login/
+
 https://help.pythonanywhere.com/pages/environment-variables-for-web-apps
+
 https://www.mattbutton.com/2019/01/05/google-authentication-with-python-and-flask/
